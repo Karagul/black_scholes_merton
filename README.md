@@ -9,5 +9,4 @@ python brownian_black_scholes_merton.py
 
 # requirements
 
-Python >= 3.6
-numpy
+Python >= 3.6 and numpy
